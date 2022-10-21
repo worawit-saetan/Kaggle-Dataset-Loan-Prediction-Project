@@ -6,7 +6,7 @@ https://www.kaggle.com/datasets/altruistdelhite04/loan-prediction-problem-datase
 
 This project is a classification problem, given information about the application we have to predict whether the they'll be to pay the loan or not.
 
-Information about the application
+The information about the application
 
   Loan_ID : Unique Loan ID
 
