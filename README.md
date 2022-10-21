@@ -6,35 +6,40 @@ https://www.kaggle.com/datasets/altruistdelhite04/loan-prediction-problem-datase
 
 This project is a classification problem, given information about the application we have to predict whether the they'll be to pay the loan or not.
 
-The information about the application
 
-  Loan_ID : Unique Loan ID
 
-  Gender : Male/Female
 
-  Married : Applicant married (Yes/No)
+## The information about the application
 
-  Dependents : Number of dependents
+  - Loan_ID : Unique Loan ID
 
-  Education : Education of Applicant (Graduate/ Not Graduate)
+  - Gender : Male/Female
 
-  Self_Employed : Self employed (Yes/No)
+  - Married : Applicant married (Yes/No)
 
-  ApplicantIncome : Applicant income
+  - Dependents : Number of dependents
 
-  CoapplicantIncome : Co-applicant income
+  - Education : Education of Applicant (Graduate/ Not Graduate)
 
-  LoanAmount : Loan amount in thousands
+  - Self_Employed : Self employed (Yes/No)
 
-  Loan_Amount_Term : Term of loan in months
+  - ApplicantIncome : Applicant income
 
-  Credit_History : Credit history meets guildlines
+  - CoapplicantIncome : Co-applicant income
 
-  Property_Area : Urban/ Semi Urban/ Rural
+  - LoanAmount : Loan amount in thousands
 
-  Loan_Status : (Target) Loan approved (Yes/No)
+  - Loan_Amount_Term : Term of loan in months
 
-The outline of this project :
+  - Credit_History : Credit history meets guildlines
+
+  - Property_Area : Urban/ Semi Urban/ Rural
+
+  - Loan_Status : (Target) Loan approved (Yes/No)
+
+
+
+## The outline of this project :
 
 - Load data and divide the dataset (prevent from seeing the test data)
 - Explore the data
